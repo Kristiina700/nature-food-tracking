@@ -47,7 +47,7 @@ nature-food-tracking/
 
 1. **Clone the repository** (or navigate to your project directory)
    ```bash
-   cd collecting-stock
+   cd nature-food-tracking
    ```
 
 2. **Install Backend Dependencies**
